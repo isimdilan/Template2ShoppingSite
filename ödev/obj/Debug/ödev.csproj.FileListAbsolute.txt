@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\gif\22\ödev\ödev\bin\ödev.dll
+C:\Users\lenovo\Desktop\gif\22\ödev\ödev\bin\ödev.pdb
+C:\Users\lenovo\Desktop\gif\22\ödev\ödev\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\gif\22\ödev\ödev\obj\Debug\ödev.dll
+C:\Users\lenovo\Desktop\gif\22\ödev\ödev\obj\Debug\ödev.pdb
+C:\Users\lenovo\Desktop\siteler\aloısveris\ödev\ödev\bin\ödev.dll
+C:\Users\lenovo\Desktop\siteler\aloısveris\ödev\ödev\bin\ödev.pdb
+C:\Users\lenovo\Desktop\siteler\aloısveris\ödev\ödev\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\siteler\aloısveris\ödev\ödev\obj\Debug\ödev.dll
+C:\Users\lenovo\Desktop\siteler\aloısveris\ödev\ödev\obj\Debug\ödev.pdb
+C:\Users\lenovo\Desktop\11&12\siteler\aloısveris\ödev\ödev\bin\ödev.dll
+C:\Users\lenovo\Desktop\11&12\siteler\aloısveris\ödev\ödev\bin\ödev.pdb
+C:\Users\lenovo\Desktop\11&12\siteler\aloısveris\ödev\ödev\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\11&12\siteler\aloısveris\ödev\ödev\obj\Debug\ödev.dll
+C:\Users\lenovo\Desktop\11&12\siteler\aloısveris\ödev\ödev\obj\Debug\ödev.pdb
