@@ -1,2 +1,2 @@
 # Template2ShoppingSite
- Shopping
+ Shopping.
